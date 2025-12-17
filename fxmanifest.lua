@@ -1,7 +1,7 @@
 fx_version 'adamant'
 game 'gta5'
 
-author 'GreenGhost'
+author 'GreenGhost- updated features added by Freakii79'
 version '1.0.1'
 
 shared_scripts {
